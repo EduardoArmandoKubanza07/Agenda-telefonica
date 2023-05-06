@@ -1,0 +1,10 @@
+E:\ESCOLA\C#\Agendamento\wtfFormAgenda\bin\Debug\wtfFormAgenda.exe.config
+E:\ESCOLA\C#\Agendamento\wtfFormAgenda\bin\Debug\wtfFormAgenda.exe
+E:\ESCOLA\C#\Agendamento\wtfFormAgenda\bin\Debug\wtfFormAgenda.pdb
+E:\ESCOLA\C#\Agendamento\wtfFormAgenda\bin\Debug\Guna.UI2.dll
+E:\ESCOLA\C#\Agendamento\wtfFormAgenda\obj\Debug\wtfFormAgenda.formAgenda.resources
+E:\ESCOLA\C#\Agendamento\wtfFormAgenda\obj\Debug\wtfFormAgenda.Properties.Resources.resources
+E:\ESCOLA\C#\Agendamento\wtfFormAgenda\obj\Debug\wfaFormAgenda.csproj.GenerateResource.Cache
+E:\ESCOLA\C#\Agendamento\wtfFormAgenda\obj\Debug\wtfFormAgenda.exe
+E:\ESCOLA\C#\Agendamento\wtfFormAgenda\obj\Debug\wtfFormAgenda.pdb
+E:\ESCOLA\C#\Agendamento\wtfFormAgenda\obj\Debug\wfaFormAgenda.csprojResolveAssemblyReference.cache
